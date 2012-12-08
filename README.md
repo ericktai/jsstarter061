@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StackMob Javascript Examples
 
 Welcome!  You're here because you downloaded the JS SDK Starter zip or you've forked/cloned the <a href="https://github.com/stackmob/stackmob-javascript-examples" target="_blank">JS Examples GitHub repo</a>.
@@ -53,3 +54,7 @@ Once the web server is running, feel free to start exploring by visiting these p
 Have some examples on how to use the StackMob JS SDK in NodeJS?  How about CoffeeScript?  Email us at support@stackmob.com or simply fork this repo and submit a pull request!  
 
 If you'd like to share your repo, contact us at support@stackmob.com and we can also link to it.
+=======
+jsstarter061
+============
+>>>>>>> d8f8db7a2af0bed2fbb5f7b35bcd636dd2e50fef
